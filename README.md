@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megha-vaswani2309
 - 👀 I’m interested in Python, Python & Python!
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently inolved in Problem solving & looking forward to making awesome Python projects.
 - 😄 Pronouns: she/her
 
 <!---
